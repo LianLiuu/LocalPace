@@ -1,0 +1,32 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif !important;
+    background-color: #004d40;
+}
+
+li {
+    padding: 0.5em;
+}
+.card {
+    background-color: #39796b;
+    color: white;
+}
+
+#output {
+    margin:4em;
+    color: white;
+}
+
+#submit {
+    background-color: #004d40;
+}
+
+h2 {
+    text-align: center;
+}
+#cardForm {
+    margin:2em;
+}
+
+#coordForm {
+    margin:2em;
+}
