@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=LocalPace
+comment0.text=\n\ Write\ a\ description\ of\ class\ LocalPace\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=LocalPace()
+comment2.params=inFileName
+comment2.target=void\ displayFile(java.lang.String)
+comment3.params=
+comment3.target=void\ getLocation()
+comment4.params=lat2\ lon2
+comment4.target=double\ calculateDistanceBetweenPointsinmeters(double,\ double)
+comment5.params=dis
+comment5.target=double\ runningTime(double)
+comment6.params=dis
+comment6.target=double\ joggingTime(double)
+comment7.params=dis
+comment7.target=double\ bikingTime(double)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10
